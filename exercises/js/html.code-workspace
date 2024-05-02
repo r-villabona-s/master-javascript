@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../html"
+		},
+		{
+			"path": "../../ejer1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "www"
+	}
+}
